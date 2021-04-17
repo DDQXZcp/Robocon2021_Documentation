@@ -2,7 +2,7 @@
 Documentation of My Robocon 2021
 
 
-
+~~~
 N1: Nucleo STM32F446RE
 
 CAN 1 ============> Swerve Drive
@@ -18,3 +18,4 @@ CAN 2 <============ Remote Control Information
       
 GPIO  ============> Pick and Load
 = 5 Relay
+~~~
